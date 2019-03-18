@@ -2126,6 +2126,68 @@ body {
 .cid-rkv6SnZh6u div.b {
   padding-top: 2rem;
 }
+.cid-rkHlefRN4m {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rkHlefRN4m h2 {
+  text-align: left;
+}
+.cid-rkHlefRN4m h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rkHlefRN4m p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rkHlefRN4m .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rkHlefRN4m .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rkHlefRN4m .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rkHlefRN4m .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rkHlefRN4m .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rkHlefRN4m .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rkHlefRN4m .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rkHlefRN4m .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rkHlefRN4m .card-img span {
+    font-size: 40px !important;
+  }
+}
 .cid-rkGxGUJw4w {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2182,5 +2244,45 @@ body {
   }
   .cid-rkGxGUJw4w .wrapper {
     padding-top: 1rem;
+  }
+}
+.cid-rkHhANTLtf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rkHhANTLtf h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rkHhANTLtf p {
+  color: #767676;
+}
+.cid-rkHhANTLtf .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rkHhANTLtf .card-wrapper .card-box {
+  padding: 2rem 2rem 2rem 0;
+  width: 100%;
+}
+.cid-rkHhANTLtf .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rkHhANTLtf .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rkHhANTLtf .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rkHhANTLtf .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
   }
 }
